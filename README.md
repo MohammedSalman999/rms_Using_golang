@@ -4,11 +4,16 @@ Recruitment Management System Backend
 for English Translation see below 
 Recruitment Management System (RMS) backend repository mein! Yeh server essential APIs provide karta hai user profiles, job postings, resume uploads, aur aur bhi functions ke liye, jo recruitment processes ko asaan banata hai.
 
-Introduction
+**Introduction**
 RMS backend recruitment lifecycle ko efficiently manage karne ke liye design kiya gaya hai. Chahe aap ek administrator ho jo job opportunities create karte hain ya ek applicant jo resume upload karte hain aur job apply karte hain, yeh system secure authentication aur robust data handling ke saath process ko simplify karta hai.
 
-Key Features
-User Management
+**Technology used**
+**Golang
+MySQL
+ApiLayer(For API intigration)**
+
+**Key Features 
+User Management**
 
 Sign Up: Naye users apne profiles create kar sakte hain jisme Name, Email, Password, UserType (Admin/Applicant), Profile Headline, aur Address jaise details hote hain.
 
